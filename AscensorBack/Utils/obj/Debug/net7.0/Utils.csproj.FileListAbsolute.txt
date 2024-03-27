@@ -9,3 +9,4 @@ D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Utils\obj\Debug\net
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Utils\obj\Debug\net7.0\refint\Utils.dll
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Utils\obj\Debug\net7.0\Utils.pdb
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Utils\obj\Debug\net7.0\ref\Utils.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Utils\obj\Debug\net7.0\Utils.sourcelink.json

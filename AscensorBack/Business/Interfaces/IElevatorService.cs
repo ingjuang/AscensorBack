@@ -14,5 +14,6 @@ namespace Business.Interfaces
         public Task<PetitionResponse> AddRequestToGo(int floor);
         public Task<Elevator> Get();
         public Task<Elevator> Update(Elevator elevator);
+        public Task<PetitionResponse> OpenDoors();
     }
 }

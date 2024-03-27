@@ -12,5 +12,6 @@ namespace Core.Models
         [Key]
         public int Id { get; set; }
         public int floorToGo {  get; set; }
+        public bool isActive { get; set; }
     }
 }

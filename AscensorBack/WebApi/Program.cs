@@ -12,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IElevatorService, ElevatorService>();
 builder.Services.AddScoped<IElevatorJob, ElevatorJob>();
+builder.Services.AddScoped<IRequestService, RequestService>();
 builder.Services.AddDbContext<AppDbContext>();
 
 var app = builder.Build();
@@ -22,6 +23,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(x => x.WithOrigins("https://localhost:7076", "http://localhost:4200").AllowAnyHeader().AllowAnyMethod().AllowCredentials());
+
 app.MapControllers();
 app.UseHttpsRedirection();
 

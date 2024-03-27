@@ -24,6 +24,7 @@ namespace Business.Services
         }
         public async Task<PetitionResponse> GetElevator()
         {
+
             _job.ElevatorProcess();
             Elevator elevator = await _db.Elevators.FirstOrDefaultAsync(x => x.Id == 1);
             return new PetitionResponse
@@ -77,6 +78,33 @@ namespace Business.Services
             return elevator;
         }
 
+        public async Task<PetitionResponse> OpenDoors()
+        {
+            Elevator e = await _db.Elevators.FirstOrDefaultAsync();
+            if(e.Direction == 0)
+            {
+                e.Action = "Abrir puertas";
+                _db.Elevators.Update(e);
+                await _db.SaveChangesAsync();
+                return new PetitionResponse
+                {
+                    message = "Operación exitosa",
+                    module = "Elevator",
+                    URL = "api/Elevator/OpenDoors",
+                    result = e,
+                    success = true
+                };
+            }
+            return new PetitionResponse
+            {
+                message = "No se puede porque el elevador está en movimiento",
+                module = "Elevator",
+                URL = "api/Elevator/OpenDoors",
+                result = e,
+                success = false
+            };
+        }
+
 
 
         private void InitialValues()
@@ -89,7 +117,7 @@ namespace Business.Services
                 elevator.Direction = 0;
                 elevator.CurrentFloor = 1;
                 elevator.State = false;
-
+                elevator.Action = "Puertas cerradas";
                 _db.Elevators.Add(elevator);
                 _db.SaveChanges();
             }

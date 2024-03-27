@@ -15,3 +15,4 @@ D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\refint\Data.dll
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.pdb
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\ref\Data.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.sourcelink.json

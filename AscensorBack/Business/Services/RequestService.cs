@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Utils.Responses;
 
 namespace Business.Services
 {
@@ -18,32 +19,34 @@ namespace Business.Services
         {
             _db = db;
         }
-        public async Task<Request> GetRequest()
+        public async Task<PetitionResponse> GetRequests()
         {
-            Request request = await _db.Requests.FirstOrDefaultAsync();
-            return request;
-        }
-        public async Task<Request> ClosestPositiveNumber(int currentFloor)
-        {
-            Request request = await _db.Requests.Where(x => x.floorToGo > currentFloor).OrderBy(x => x.floorToGo).FirstOrDefaultAsync();
-            return request;
-        }
-        public async Task<Request> ClosestNegativeNumber(int currentFloor)
-        {
-            Request request = await _db.Requests.Where(x => x.floorToGo < currentFloor).OrderByDescending(x => x.floorToGo).FirstOrDefaultAsync();
-            return request;
+            List<Request> requests = await _db.Requests.ToListAsync();
+            return new PetitionResponse
+            {
+                message = "Operación exitosa",
+                module = "Request",
+                URL = "api/Request/GetRequests",
+                result = requests,
+                success = true
+            };
         }
 
-        public async Task<Request> RequestIfIsInCurrentFloor(int currentFloor)
+        public async Task<PetitionResponse> StopElevator()
         {
-            Request request = await _db.Requests.Where(x => x.floorToGo == currentFloor).FirstOrDefaultAsync();
-            return request;
-        }
-
-        public async void Remove(Request request)
-        {
-            _db.Requests.Remove(request);
+            Elevator elevator = await _db.Elevators.FirstOrDefaultAsync();
+            elevator.Direction = 0;
+            _db.Elevators.Update(elevator);
+            _db.Requests.RemoveRange(_db.Requests.ToList());
             await _db.SaveChangesAsync();
+            return new PetitionResponse
+            {
+                message = "Operación exitosa",
+                module = "Request",
+                URL = "api/Request/StopElevator",
+                result = null,
+                success = true
+            };
         }
     }
 }

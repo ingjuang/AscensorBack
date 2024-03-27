@@ -13,3 +13,4 @@ D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Core\obj\Debug\net7
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Core\obj\Debug\net7.0\refint\Core.dll
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Core\obj\Debug\net7.0\Core.pdb
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Core\obj\Debug\net7.0\ref\Core.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Core\obj\Debug\net7.0\Core.sourcelink.json

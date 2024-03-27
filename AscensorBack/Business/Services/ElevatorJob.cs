@@ -23,7 +23,8 @@ namespace Business.Services
 
         public async void ElevatorProcess()
         {
-            if (isActiveShedule)
+
+            if (Validators.isShedulingActivate)
             {
                 return;
             }
@@ -36,8 +37,8 @@ namespace Business.Services
                 await Console.Out.WriteLineAsync("Finaliza Shedule");
                 return;
             }
-            isActiveShedule = true;
             Elevator elevator = await _db.Elevators.FirstOrDefaultAsync(x => x.Id == 1);
+            Validators.isShedulingActivate = true;
             Request? rPos = null;
             Request? rNeg = null;
             if (elevator.Direction == 0)
@@ -70,9 +71,24 @@ namespace Business.Services
                 Request request = await _db.Requests.Where(x => x.floorToGo == elevator.CurrentFloor).FirstOrDefaultAsync();
                 if (request != null)
                 {
-                    _db.Requests.Remove(request);
-                    await _db.SaveChangesAsync();
-                    await Task.Delay(3000); // Esperamos 3 segundos
+                    try
+                    {
+                        await Console.Out.WriteLineAsync("Entra +1");
+                        _db.Requests.Remove(request);
+                        elevator.Direction = 0;
+                        elevator.Action = "Abrir puertas";
+                        _db.Elevators.Update(elevator);
+                        await _db.SaveChangesAsync();
+                        await Task.Delay(15000); // Esperamos 3 segundos
+                        elevator.Action = "Puertas cerradas";
+                        _db.Elevators.Update(elevator);
+                        await _db.SaveChangesAsync();
+                    }
+                    catch(Exception ex)
+                    {
+                        Console.Out.WriteLine(ex);
+                    }
+
                 }
                 else
                 {
@@ -81,13 +97,13 @@ namespace Business.Services
                         elevator.CurrentFloor = elevator.CurrentFloor + 1;
                         _db.Elevators.Update(elevator);
                         await _db.SaveChangesAsync();
-                        await Task.Delay(1000); // Esperamos 1 segundo
+                        await Task.Delay(3000); // Esperamos 1 segundo
 
                     }
                     else
                     {
                         elevator.CurrentFloor = 9;
-                        elevator.Direction = 3;
+                        elevator.Direction = 2;
                         _db.Elevators.Update(elevator);
                         await _db.SaveChangesAsync();
                     }
@@ -100,10 +116,23 @@ namespace Business.Services
                 Request request = await _db.Requests.Where(x => x.floorToGo == elevator.CurrentFloor).FirstOrDefaultAsync();
                 if (request != null)
                 {
-                    _db.Requests.Remove(request);
-                    await _db.SaveChangesAsync();
-                    await Task.Delay(3000); // Esperamos 3 segundos
-                }
+                    try
+                    {
+                        _db.Requests.Remove(request);
+                        elevator.Action = "Abrir puertas";
+                        elevator.Direction = 0;
+                        _db.Elevators.Update(elevator);
+                        await _db.SaveChangesAsync();
+                        await Task.Delay(15000); // Esperamos 3 segundos
+                        elevator.Action = "Puertas cerradas";
+                        _db.Elevators.Update(elevator);
+                        await _db.SaveChangesAsync();
+                    }
+                    catch(Exception ex)
+                    {
+                        Console.Out.WriteLine(ex);
+                    }
+            }
                 else
                 {
                     if (elevator.CurrentFloor != 1)
@@ -111,20 +140,20 @@ namespace Business.Services
                         elevator.CurrentFloor = elevator.CurrentFloor - 1;
                         _db.Elevators.Update(elevator);
                         await _db.SaveChangesAsync();
-                        await Task.Delay(1000); // Esperamos 1 segundo
+                        await Task.Delay(3000); // Esperamos 1 segundo
 
                     }
                     else
                     {
                         elevator.CurrentFloor = 1;
-                        elevator.Direction = 3;
+                        elevator.Direction = 1;
                         _db.Elevators.Update(elevator);
                         await _db.SaveChangesAsync();
                     }
 
                 }
             }
-            isActiveShedule = false;
+            Validators.isShedulingActivate = false;
         }
 
 

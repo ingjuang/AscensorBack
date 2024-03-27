@@ -45,3 +45,4 @@ D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\WebApi\obj\Debug\ne
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\WebApi\obj\Debug\net7.0\WebApi.pdb
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\WebApi\obj\Debug\net7.0\WebApi.sourcelink.json

@@ -17,3 +17,4 @@ D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Business\obj\Debug\
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Business\obj\Debug\net7.0\refint\Business.dll
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Business\obj\Debug\net7.0\Business.pdb
 D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Business\obj\Debug\net7.0\ref\Business.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Business\obj\Debug\net7.0\Business.sourcelink.json

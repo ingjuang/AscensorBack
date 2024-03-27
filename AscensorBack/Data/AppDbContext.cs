@@ -15,5 +15,6 @@ namespace Data
 
         public DbSet<Elevator> Elevators { get; set; }
         public DbSet<Request> Requests { get; set; }
+        public DbSet<State> States { get; set; }
     }
 }

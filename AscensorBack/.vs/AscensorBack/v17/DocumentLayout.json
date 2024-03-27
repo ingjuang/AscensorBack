@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\services\\elevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\services\\elevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\webapi\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\interfaces\\ielevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ielevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\webapi\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\services\\elevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\services\\elevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\services\\elevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\services\\elevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\core\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|solutionrelative:core\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\webapi\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\interfaces\\ielevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ielevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\interfaces\\ielevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ielevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\interfaces\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +35,24 @@
       "RelativeMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|solutionrelative:core\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\core\\models\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|solutionrelative:core\\models\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\business\\interfaces\\ielevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793EC298-C18E-467D-A6B6-66A304DC0F6B}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ielevatorjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50A03720-00C7-4ED4-82D9-73D86BB5BC5C}|Data\\Data.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50A03720-00C7-4ED4-82D9-73D86BB5BC5C}|Data\\Data.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50A03720-00C7-4ED4-82D9-73D86BB5BC5C}|Data\\Data.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50A03720-00C7-4ED4-82D9-73D86BB5BC5C}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\core\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A96433B-2F81-4D8A-B7D3-E83FAF5C4671}|Core\\Core.csproj|solutionrelative:core\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|d:\\proyectos\\pruebatecnicawearedev\\ascensorback\\ascensorback\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909A973-E588-4F6D-B427-13432E348460}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,131 +71,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IElevatorJob.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorJob.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IElevatorJob.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorJob.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IElevatorJob.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAjAAAA",
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\RequestController.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\RequestController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T01:57:10.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IRequestService.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IRequestService.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IRequestService.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IRequestService.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IRequestService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T01:18:41.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RequestService.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\RequestService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\RequestService.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\RequestService.cs",
-              "RelativeToolTip": "Business\\Services\\RequestService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T01:16:57.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ElevatorController.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Controllers\\ElevatorController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\ElevatorController.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Controllers\\ElevatorController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\ElevatorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T00:27:07.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Request.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Request.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\Request.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Request.cs",
-              "RelativeToolTip": "Core\\Models\\Request.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:53:58.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T22:12:44.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ElevatorService.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\ElevatorService.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorService.cs",
-              "RelativeToolTip": "Business\\Services\\ElevatorService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T21:37:09.674Z",
+              "WhenOpened": "2024-03-27T07:30:15.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ElevatorJob.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorJob.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\ElevatorJob.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorJob.cs",
-              "RelativeToolTip": "Business\\Services\\ElevatorJob.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAADwv1AAAAAYAAAA",
+              "Title": "ElevatorController.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Controllers\\ElevatorController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ElevatorController.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Controllers\\ElevatorController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ElevatorController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T23:25:39.655Z",
+              "WhenOpened": "2024-03-27T07:29:46.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\RequestService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RequestService.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\RequestService.cs",
+              "RelativeToolTip": "Business\\Services\\RequestService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA5wCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:07:03.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IElevatorService.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorService.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IElevatorService.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorService.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IElevatorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAA4AAAA",
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Request.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Request.cs",
+              "RelativeToolTip": "Core\\Models\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T21:36:10.934Z",
+              "WhenOpened": "2024-03-27T07:03:08.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Validators.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Validators.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Validators.cs",
+              "RelativeToolTip": "Core\\Models\\Validators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:52:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRequestService.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IRequestService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IRequestService.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IRequestService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:22:03.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Elevator.cs",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Elevator.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\Elevator.cs",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\Elevator.cs",
-              "RelativeToolTip": "Core\\Models\\Elevator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAfAAAA",
+              "Title": "IElevatorService.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IElevatorService.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IElevatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T21:15:41.883Z",
+              "WhenOpened": "2024-03-27T06:22:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IElevatorJob.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorJob.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IElevatorJob.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Interfaces\\IElevatorJob.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IElevatorJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:21:44.233Z",
               "EditorCaption": ""
             },
             {
@@ -202,22 +180,61 @@
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T21:09:16.048Z",
+              "WhenOpened": "2024-03-27T05:55:47.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Data",
-              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Data\\Data.csproj",
-              "RelativeDocumentMoniker": "Data\\Data.csproj",
-              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Data\\Data.csproj",
-              "RelativeToolTip": "Data\\Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-26T21:01:05.741Z",
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\State.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\State.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Models\\State.cs",
+              "RelativeToolTip": "Core\\Models\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:55:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:18:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElevatorService.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ElevatorService.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorService.cs",
+              "RelativeToolTip": "Business\\Services\\ElevatorService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADwv1cAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:54:07.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElevatorJob.cs",
+              "DocumentMoniker": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorJob.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ElevatorJob.cs",
+              "ToolTip": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Business\\Services\\ElevatorJob.cs",
+              "RelativeToolTip": "Business\\Services\\ElevatorJob.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAFgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:35:41.998Z",
               "EditorCaption": ""
             }
           ]

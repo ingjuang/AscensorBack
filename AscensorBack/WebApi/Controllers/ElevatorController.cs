@@ -1,5 +1,6 @@
 ﻿using Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System.Drawing;
 using Utils.Responses;
 
 namespace WebApi.Controllers
@@ -26,6 +27,13 @@ namespace WebApi.Controllers
         public async Task<ActionResult> AddRequestToGo(int floor)
         {
             PetitionResponse res = await _elevatorService.AddRequestToGo(floor);
+            return Ok(res);
+        }
+
+        [HttpPost, Route("OpenDoors")]
+        public async Task<ActionResult> OpenDoors()
+        {
+            PetitionResponse res = await _elevatorService.OpenDoors();
             return Ok(res);
         }
     }

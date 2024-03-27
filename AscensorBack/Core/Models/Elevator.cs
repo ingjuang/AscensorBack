@@ -11,7 +11,7 @@ namespace Core.Models
         public int Id { get; set; }
         public int CurrentFloor { get; set; }
         public bool State { get; set; }
-
         public int Direction { get; set; }
+        public string? Action { get; set; }
     }
 }

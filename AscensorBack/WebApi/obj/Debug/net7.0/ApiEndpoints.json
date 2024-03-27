@@ -24,5 +24,35 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.ElevatorController",
+    "Method": "OpenDoors",
+    "RelativePath": "api/Elevator/OpenDoors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.RequestController",
+    "Method": "GetRequests",
+    "RelativePath": "api/Request/GetRequests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.RequestController",
+    "Method": "StopElevator",
+    "RelativePath": "api/Request/StopElevator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
