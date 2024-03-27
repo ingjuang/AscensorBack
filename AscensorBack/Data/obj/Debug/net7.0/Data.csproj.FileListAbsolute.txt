@@ -1,0 +1,17 @@
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Data.deps.json
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Data.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Data.pdb
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Core.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Utils.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Core.pdb
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\bin\Debug\net7.0\Utils.pdb
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.csproj.Up2Date
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\refint\Data.dll
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\Data.pdb
+D:\proyectos\PruebaTecnicaWeAreDev\AscensorBack\AscensorBack\Data\obj\Debug\net7.0\ref\Data.dll

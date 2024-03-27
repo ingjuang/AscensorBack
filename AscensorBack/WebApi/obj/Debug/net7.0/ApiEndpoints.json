@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebApi.Controllers.ElevatorController",
+    "Method": "AddRequestToGo",
+    "RelativePath": "api/Elevator/AddRequestToGo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "floor",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.ElevatorController",
+    "Method": "GetElevator",
+    "RelativePath": "api/Elevator/GetCurrentFloor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Core.csproj": {}
+  },
+  "projects": {
+    "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Juan David\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Utils\\Utils.csproj": {
+                "projectPath": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Utils\\Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Utils\\Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Utils\\Utils.csproj",
+        "projectName": "Utils",
+        "projectPath": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\Juan David\\.nuget\\packages\\",
+        "outputPath": "D:\\proyectos\\PruebaTecnicaWeAreDev\\AscensorBack\\AscensorBack\\Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
